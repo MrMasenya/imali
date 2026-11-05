@@ -17,7 +17,7 @@
 | [`docs/demo/imali-poe-narrated-walkthrough.mp4`](docs/demo/imali-poe-narrated-walkthrough.mp4) | Generated narrated overview (56s) — **supplementary** |
 | **YouTube (required for rubric)** | Record on your **physical phone** using [`docs/VIDEO_SCRIPT.md`](docs/VIDEO_SCRIPT.md) + [`docs/demo/PHONE_RECORDING.md`](docs/demo/PHONE_RECORDING.md), then paste the unlisted link here |
 
-**Installable build:** [`docs/imali-debug.apk`](docs/imali-debug.apk) (debug, built with JDK 17 + local SDK).
+**Installable build:** [`apk/imali-debug.apk`](apk/imali-debug.apk) (also in [`docs/imali-debug.apk`](docs/imali-debug.apk)).
 
 ---
 
