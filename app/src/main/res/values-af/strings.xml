@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iMali</string>
+    <string name="login">Teken in</string>
+    <string name="register">Registreer</string>
+    <string name="email">E-pos</string>
+    <string name="password">Wagwoord</string>
+    <string name="name">Naam</string>
+    <string name="google_sign_in">Gaan voort met Google</string>
+    <string name="dashboard">Paneelbord</string>
+    <string name="balance">Balans</string>
+    <string name="add_transaction">Voeg transaksie by</string>
+    <string name="budgets">Begrotings</string>
+    <string name="reports">Verslae</string>
+    <string name="stokvel">Stokvel</string>
+    <string name="settings">Instellings</string>
+    <string name="gamification">Reekse en kentekens</string>
+    <string name="amount">Bedrag</string>
+    <string name="category">Kategorie</string>
+    <string name="note">Nota</string>
+    <string name="save">Stoor</string>
+    <string name="expense">Uitgawe</string>
+    <string name="income">Inkomste</string>
+    <string name="logout">Teken uit</string>
+    <string name="language">Taal</string>
+    <string name="currency">Geldeenheid</string>
+    <string name="dark_theme">Donker tema</string>
+    <string name="notifications">Kennisgewings</string>
+    <string name="sync_pending">Wag op sinkronisering wanneer aanlyn</string>
+    <string name="create_stokvel">Skep stokvel</string>
+    <string name="members_hint">Lede (komma-geskei)</string>
+    <string name="contribute">Dra by</string>
+    <string name="month">Maand (YYYY-MM)</string>
+    <string name="limit">Limiet</string>
+    <string name="recent_transactions">Onlangse transaksies</string>
+    <string name="spending_by_category">Besteding per kategorie</string>
+    <string name="day_streak">Dag-reeks</string>
+    <string name="badges">Kentekens</string>
+    <string name="no_badges">Nog geen kentekens nie!</string>
+</resources>

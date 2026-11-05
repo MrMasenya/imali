@@ -1,0 +1,22 @@
+[
+  {
+    "slide": "slide-01-intro.jpg",
+    "durationSec": 12,
+    "text": "Hello, this is my OPSC6312 Portfolio of Evidence for iMali, a personal finance Android app built for South African users. In this demonstration I will show authentication, offline sync, the REST API with MongoDB Atlas, stokvel savings, gamification, multi-language support, and push notifications."
+  },
+  {
+    "slide": "slide-02-auth.jpg",
+    "durationSec": 14,
+    "text": "Users register with name, email and password. Passwords are hashed with bcrypt on my Node.js API and never stored in plain text. The app keeps the JWT in Encrypted Shared Preferences. Google Single Sign-On verifies the ID token on the server using the Google Auth library."
+  },
+  {
+    "slide": "slide-03-offline.jpg",
+    "durationSec": 14,
+    "text": "Transactions are saved immediately in Room with a pending sync status. When connectivity returns, WorkManager runs SyncWorker to upload pending rows to my Render-hosted API and MongoDB Atlas. This supports load shedding and expensive mobile data."
+  },
+  {
+    "slide": "slide-04-features.jpg",
+    "durationSec": 16,
+    "text": "Innovative features include stokvel group contributions, daily capture streaks and badges, Firebase Cloud Messaging for budget alerts, receipt blob storage in MongoDB, and three languages: English, isiZulu and Afrikaans. The live app demo on my physical phone shows each screen, Atlas collections, and Render logs."
+  }
+]

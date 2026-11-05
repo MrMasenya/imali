@@ -1,0 +1,25 @@
+# Android
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Secrets
+api/.env
+*.jks
+*.keystore
+google-services.json.bak
+
+# Node
+api/node_modules/
+docs/demo/work/
+*.wav
+
+# Logs
+*.log

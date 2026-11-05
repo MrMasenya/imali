@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iMali</string>
+    <string name="login">Ngena</string>
+    <string name="register">Bhalisa</string>
+    <string name="email">I-imeyili</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="name">Igama</string>
+    <string name="google_sign_in">Qhubeka nge-Google</string>
+    <string name="dashboard">Ibhodi</string>
+    <string name="balance">Ibhalansi</string>
+    <string name="add_transaction">Engeza ukuthenga</string>
+    <string name="budgets">Izabelo</string>
+    <string name="reports">Imibiko</string>
+    <string name="stokvel">Isitokveli</string>
+    <string name="settings">Izilungiselelo</string>
+    <string name="gamification">Ukuqhubeka nemibheji</string>
+    <string name="amount">Inani</string>
+    <string name="category">Isigaba</string>
+    <string name="note">Inothi</string>
+    <string name="save">Londoloza</string>
+    <string name="expense">Ukuchitha</string>
+    <string name="income">Imali engenayo</string>
+    <string name="logout">Phuma</string>
+    <string name="language">Ulimi</string>
+    <string name="currency">Imali</string>
+    <string name="dark_theme">Itimu emnyama</string>
+    <string name="notifications">Izaziso</string>
+    <string name="sync_pending">Kulindwe ukuvumelanisa ku-inthanethi</string>
+    <string name="create_stokvel">Dala isitokveli</string>
+    <string name="members_hint">Amalungu (ahlukaniswe ngekhoma)</string>
+    <string name="contribute">Nikela</string>
+    <string name="month">Inyanga (YYYY-MM)</string>
+    <string name="limit">Umkhawulo</string>
+    <string name="recent_transactions">Ukuthenga kwakamuva</string>
+    <string name="spending_by_category">Ukuchitha ngesigaba</string>
+    <string name="day_streak">Usuku lokulandelela</string>
+    <string name="badges">Imibheji</string>
+    <string name="no_badges">Awunayo imibheji okwamanje!</string>
+</resources>
